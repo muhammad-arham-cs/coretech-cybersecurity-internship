@@ -8,7 +8,9 @@ This report covers the essential networking concepts every cybersecurity intern 
 
 The OSI model is a conceptual framework that standardises network communication into seven layers. Each layer serves the one above it and gets services from the one below.
 
-(Image placeholder: images/osi-model.png)
+OSI MODEL IMAGE
+<img width="891" height="413" alt="OSI-Model" src="https://github.com/user-attachments/assets/631a0a64-c517-4c9a-966a-e0012a08d8db" />
+
 
 Layer 7 – Application
 The layer closest to the user. Provides network services directly to applications like web browsers and email clients.
@@ -48,7 +50,9 @@ Devices: Hubs, repeaters, cables, antennas.
 
 The internet actually runs on a simpler four-layer model called the TCP/IP model.
 
-(Image placeholder: images/tcpip-model.png)
+TCP/IP MODEL IMAGE
+<img width="960" height="720" alt="tcp-ip model" src="https://github.com/user-attachments/assets/7c705820-edd5-436e-a593-f607354b7e38" />
+
 
 TCP/IP Layer          Rough OSI Equivalent    Examples of Protocols
 --------------------- ----------------------- -----------------------
