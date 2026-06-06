@@ -1,1 +1,0 @@
-# coretech-cybersecurity-internship
